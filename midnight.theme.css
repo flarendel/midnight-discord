@@ -19,20 +19,20 @@
 	--roundness: 16px;
 
 	/* color of links */
-	--accent-1: hsl(190, 70%, 60%);
+	--accent-1: hsl(328, 37%, 73%);
 	/* color of unread dividers and some indicators */
-	--accent-2: hsl(190, 70%, 50%);
+	--accent-2: hsl(300, 26%, 71%);
 	/* color of accented buttons */
-	--accent-3: hsl(190, 70%, 40%);
+	--accent-3: hsl(266, 33%, 74%);
 	/* color of accented buttons when hovered */
-	--accent-4: hsl(190, 70%, 30%);
+	--accent-4: hsl(235, 40%, 75%);
 	/* color of accented buttons when clicked */
-	--accent-5: hsl(190, 70%, 20%);
+	--accent-5: hsl(216, 50%, 72%);
 
 	/* color of mentions and messages that mention you */
-	--mention: hsla(190, 60%, 50%, 0.1);
+	--mention: hsla(344, 45%, 74%, 0.1);
 	/* color of mentions and messages that mention you when hovered */
-	--mention-hover: hsla(190, 60%, 50%, 0.05);
+	--mention-hover: hsla(358, 47%, 74%, 0.05);
 
 	/* color of bright text on colored buttons */
 	--text-1: hsl(220, 40%, 90%);
@@ -46,18 +46,18 @@
 	--text-5: hsl(220, 15%, 24%);
 
 	/* color of dark buttons when clicked */
-	--bg-1: hsl(220, 15%, 20%);
+	--bg-1: hsl(300, 26%, 35%);
 	/* color of dark buttons */
-	--bg-2: hsl(220, 15%, 16%);
+	--bg-2: hsl(300, 26%, 44%);
 	/* color of spacing around panels and secondary elements */
 	--bg-3: hsl(220, 15%, 13%);
 	/* main background color */
 	--bg-4: hsl(220, 15%, 10%);
 
 	/* color of channels and icon buttons when hovered */
-	--hover: hsla(230, 20%, 40%, 0.1);
+	--hover: hsla(330, 67%, 93%, 0.1);
 	/* color of channels and icon buttons when clicked or selected */
-	--active: hsla(220, 20%, 40%, 0.2);
+	--active: hsla(304, 44%, 92%, 0.2);
 	/* color of messages when hovered */
-	--message-hover: hsla(220, 0%, 0%, 0.1);
+	--message-hover: hsla(268, 54%, 93%, 0.1);
 }
